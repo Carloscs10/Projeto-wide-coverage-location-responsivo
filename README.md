@@ -11,7 +11,7 @@
 <br>
 <p float="left" align="center"  >
   
-<img src="https://github.com/Carloscs10/Projeto-wide-coverage-location-responsivo/blob/master/img/projeto.widecap1pc.PNG?raw=true" width="550px"  />
+<img src="https://github.com/Carloscs10/Projeto-wide-coverage-location-responsivo/blob/master/img/projeto.widecap1pc.PNG?raw=true"  width="550px"  />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Carloscs10/Projeto-wide-coverage-location-responsivo/blob/master/img/Capturar.bobile.wide3.PNG?raw=true" height="440"/>
 
